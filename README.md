@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🇳🇬 Naija Codes
 
-## Getting Started
+Naija Codes is a simple, user-friendly web app that helps Nigerians quickly find and dial important USSD codes for their SIM cards and banks — without needing to memorize them.
+Many people struggle to remember network and banking codes, so this app was built to make life easier.
 
-First, run the development server:
+🔗 Live Site: https://naija-codes.vercel.app
 
-```bash
+🚀 Features
+
+📱 One-click USSD dialing for major Nigerian networks (MTN, Airtel, Glo, 9mobile)
+
+💳 Quick access to bank shortcodes
+
+⚡ Clean, responsive, and mobile-friendly design
+
+🕹️ Built with Next.js and Tailwind CSS for speed and simplicity
+
+🛠️ Tech Stack
+
+Framework: Next.js
+
+Styling: Tailwind CSS
+
+Deployment: Vercel
+
+🧭 Getting Started
+
+Clone the repository and run the project locally:
+
+git clone https://github.com/<your-username>/naija-codes.git
+cd naija-codes
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Visit http://localhost:3000
+ to view the app locally.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+💡 Inspiration
 
-## Learn More
+Most Nigerians often forget or mix up SIM and bank codes.
+Naija Codes was built to make it easy to find, copy, or dial those codes instantly — no stress, no confusion.
 
-To learn more about Next.js, take a look at the following resources:
+🤝 Contributing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Contributions, suggestions, and improvements are always welcome!
+Feel free to fork this repo and submit a pull request.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🧑‍💻 Author
 
-## Deploy on Vercel
+Built with ❤️ by Jesse John
+Twitter
+ • Portfolio
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📄 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is open-source under the MIT License.
